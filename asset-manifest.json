@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PracticaReact/static/css/main.4cbee63e.chunk.css",
+    "main.js": "/PracticaReact/static/js/main.10efe262.chunk.js",
+    "main.js.map": "/PracticaReact/static/js/main.10efe262.chunk.js.map",
+    "runtime-main.js": "/PracticaReact/static/js/runtime-main.ed67da0f.js",
+    "runtime-main.js.map": "/PracticaReact/static/js/runtime-main.ed67da0f.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/PracticaReact/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.89781ace.chunk.js": "/PracticaReact/static/js/2.89781ace.chunk.js",
+    "static/js/2.89781ace.chunk.js.map": "/PracticaReact/static/js/2.89781ace.chunk.js.map",
+    "static/js/3.d5736ba2.chunk.js": "/PracticaReact/static/js/3.d5736ba2.chunk.js",
+    "static/js/3.d5736ba2.chunk.js.map": "/PracticaReact/static/js/3.d5736ba2.chunk.js.map",
+    "index.html": "/PracticaReact/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/PracticaReact/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.4cbee63e.chunk.css.map": "/PracticaReact/static/css/main.4cbee63e.chunk.css.map",
+    "static/js/2.89781ace.chunk.js.LICENSE.txt": "/PracticaReact/static/js/2.89781ace.chunk.js.LICENSE.txt",
+    "static/media/logodeltec.338a6ef7.png": "/PracticaReact/static/media/logodeltec.338a6ef7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed67da0f.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.89781ace.chunk.js",
+    "static/css/main.4cbee63e.chunk.css",
+    "static/js/main.10efe262.chunk.js"
+  ]
+}
